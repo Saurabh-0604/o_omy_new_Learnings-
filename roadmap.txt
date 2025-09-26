@@ -1,0 +1,8 @@
+Front-End (Web Platform)
+Technology Stack: 
+Starting with HTML, CSS, and plain JavaScript 
+>>Build the user interface
+
+
+ This foundational approach lets you learn the basics of web development before adding the complexity 
+of a framework.
